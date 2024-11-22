@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DisCS50</title>
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      href="{% static 'baseApp/Images/favicon.ico' %}"
+      type="image/x-icon"
+    />
+    <title>StudyChatRoom - Find study partners around the world!</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{% static 'baseApp/CSS/style.css' %}"
+    />
+  </head>
+
+  <body>
+
+    {% include 'baseApp/navbar.html'%}
+
+
+    {% if messages %}
+    <ul class="messages">
+      {% for message in messages %}
+      <li>{{ message }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+
+    
+    {% block body %}
+
+    {% endblock %}
+
+    <script src="{% static 'baseApp/JS/script.js' %}"></script>
+  </body>
+</html>

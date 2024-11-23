@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,django,html,css,js,websocket,sqlite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=discord,django,html,css,js,sqlite&perline=14" />
   </a>
 </p>
 

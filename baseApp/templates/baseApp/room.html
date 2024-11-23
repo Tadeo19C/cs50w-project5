@@ -121,7 +121,7 @@
 
 <script>
   const chatSocket = new WebSocket(
-    `wss://${window.location.host}/ws/room/{{ room.id }}/`
+    `ws://${window.location.host}/ws/room/{{ room.id }}/`
   );
 
   const chatMessages = document.getElementById("chat-messages");

@@ -57,7 +57,7 @@
 
 1. **Clona el Repositorio**:
    ```bash
-   git clone https://github.com/your-repo/DisCS50.git
+   github.com/Tadeo19C/cs50w-project5.git
    ```
 
 2. **Instala las Dependencias**:
@@ -88,6 +88,5 @@
 
 
 ¡Disfruta de una comunicación fluida con **DisCS50**! Redefinamos juntos la colaboración 🦆.
-https://cs50w-project5-bkb8.onrender.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

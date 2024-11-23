@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-# DisCS50: Tu Chat Colaborativo 🦆
+#DisCS50: Tu Chat Colaborativo 🦆
 
 ¡Bienvenido a **DisCS50** 👋, la plataforma definitiva para la comunicación y colaboración en tiempo real! Ya sea para organizar discusiones, compartir conocimientos o simplemente conectar con otros estudiantes, DisCS50 te ofrece una experiencia de chat moderna y funcional.
 
